@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Calculator{
     int num1;
@@ -59,5 +59,7 @@ public class Calculator{
         else{
             System.out.println("invalid opr");
         }
+
+    scan.close();
     }
 }
