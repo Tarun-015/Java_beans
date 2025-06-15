@@ -16,6 +16,12 @@ Project Structure ::
 
 2. Calculator.java: A basic Java calculator for performing arithmetic operations.
 
-3. Loops.java: Example of using for and while loops.
+3. Dog: A simple behaviour of dogs.
 
-4. Conditions.java: Example of if-else statements.
+4. Student: A simple behaviour of a normal student.
+
+5. Library: A library system for issuing,returning and adding new books.
+
+6. Practice: Exploring the math classes of JAVA.
+
+7. BankSystem: A simple banking system with features deposting,withdrawning and statement
