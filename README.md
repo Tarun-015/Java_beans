@@ -24,4 +24,4 @@ Project Structure ::
 
 6. Practice.java: Exploring the math classes of JAVA.
 
-7. BankSystem.java: A simple banking system with features deposting,withdrawning and statement
+7. BankSystem.java: A simple banking system with features deposting,withdrawning and statement.
