@@ -1,4 +1,4 @@
-JavaBeans - Basic Java Examples
+JavaBeans - Basic Java Programs
 
 Overview ::
 
